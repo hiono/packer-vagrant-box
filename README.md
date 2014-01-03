@@ -5,6 +5,6 @@ packer-vagrant-box
 
 # Usage
 
-$ cd ubuntu-12.04.3-server-amd64
-$ packer validate machine.json 
-$ packer build machine.json
+    $ cd ubuntu-12.04.3-server-amd64
+    $ packer validate machine.json
+    $ packer build machine.json
